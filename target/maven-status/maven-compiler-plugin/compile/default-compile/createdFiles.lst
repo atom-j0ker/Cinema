@@ -1,0 +1,9 @@
+com/itea/cinema/model/Vote.class
+com/itea/cinema/model/Seance.class
+com/itea/cinema/crud/SeanceDao.class
+com/itea/cinema/model/Film.class
+com/itea/cinema/crud/VoteDao.class
+com/itea/cinema/model/User.class
+com/itea/cinema/model/UserGroup.class
+com/itea/cinema/crud/FilmDao.class
+com/itea/cinema/servlets/MyServlet.class
